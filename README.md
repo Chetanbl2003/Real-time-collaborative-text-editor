@@ -34,14 +34,10 @@ A real-time collaborative text editor that allows multiple users to edit a docum
    ```
 
 ## Screenshots
-
+![Image](https://github.com/user-attachments/assets/e7a6bd79-9c3f-470b-96fd-e3100a3127c7)
 
 ## Usage
 - Open the editor and start typing.
 - Share the document URL with collaborators.
 - Edits appear instantly for all users.
 
-## Future Enhancements
-- User authentication
-- Document history tracking
-- Offline support
